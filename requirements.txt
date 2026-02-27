@@ -1,0 +1,10 @@
+opencv-python
+numpy
+torch
+ultralytics
+pandas
+scikit-learn
+joblib
+playsound==1.2.2
+imbalanced-learn
+xgboost
